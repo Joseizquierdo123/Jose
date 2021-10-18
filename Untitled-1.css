@@ -1,0 +1,38 @@
+#contenedor{
+    background-color: rgb(0, 255, 213);
+    width: 600px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+#caja1{
+    background-color: rgb(255, 0, 234);
+    
+    width: 100px;
+}
+
+#caja2{
+    background-color: rgb(255, 0, 0);
+    
+    width: 100px;
+    
+}
+
+
+#caja3{
+    background-color: rgb(0, 255, 55);
+    
+    width: 100px;
+    
+}
+
+
+#caja4{
+    background-color: rgb(0, 38, 255);
+    
+    width: 100px;
+    
+}
+
